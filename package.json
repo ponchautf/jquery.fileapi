@@ -4,7 +4,7 @@
 	"devDependencies": {
 		"grunt": "~0.4.0",
 		"grunt-version": "*",
-		"grunt-contrib-jshint": "~0.2.0",
+		"grunt-contrib-jshint": "~2.0.0",
 		"grunt-contrib-uglify": "*",
 
 		"eventemitter2": "~0.4.9",
