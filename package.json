@@ -7,7 +7,7 @@
 		"grunt-contrib-jshint": "~0.2.0",
 		"grunt-contrib-uglify": "*",
 
-		"eventemitter2": "~0.4.9",
+		"eventemitter2": "~6.0.0",
 		"semver": "~1.0.14",
 		"temporary": "~0.0.4",
 		"phantomjs": "latest"
